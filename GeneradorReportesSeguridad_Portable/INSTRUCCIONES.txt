@@ -1,0 +1,21 @@
+
+GENERADOR DE REPORTES DE SEGURIDAD
+==================================
+
+INSTRUCCIONES DE USO:
+1. Ejecute GeneradorReportesSeguridad.exe
+2. La aplicación se iniciará automáticamente
+3. Use "Añadir Archivos" para cargar archivos Excel/CSV
+4. Haga clic en "Extraer Información" para procesar
+5. Haga clic en "Generar Informes Finales" para crear reportes
+
+CARPETAS:
+- xls_folder: Coloque aquí sus archivos Excel/CSV
+- rapport2: Los informes finales se guardarán aquí
+- reports: Carpeta temporal para reportes intermedios
+
+SOPORTE:
+- Para reportar problemas, contacte al administrador del sistema
+- Este ejecutable incluye todas las dependencias necesarias
+
+© 2025 Altice

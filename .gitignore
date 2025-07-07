@@ -21,15 +21,14 @@ process_reports.log
 
 # Application specific
 DEBUG_*/
-GeneradorReportesSeguridad_Portable/
 reports/
 rapport2/
 xls_folder/*.xls
 xls_folder/*.xlsx
 xls_folder/*.csv
 
-# Distribution archives
-*.zip
+# Distribution archives (keep local ZIP for backup)
+GeneradorReportesSeguridad_v1.0.zip
 
 # Temporary files
 *.tmp
