@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.manifest
+*.egg-info/
+
+# Logs
+*.log
+process_reports.log
+
+# Application specific
+DEBUG_*/
+GeneradorReportesSeguridad_Portable/
+reports/
+rapport2/
+xls_folder/*.xls
+xls_folder/*.xlsx
+xls_folder/*.csv
+
+# Distribution archives
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
+version_info.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+desktop.ini 
